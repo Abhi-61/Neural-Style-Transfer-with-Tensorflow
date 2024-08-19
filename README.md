@@ -29,7 +29,13 @@ VGG19 Model: A widely-used CNN architecture for NST is the VGG19 model. Develope
 
 ### 2. Dog in Wassily Kandinsky's art style:
 
-![image](https://github.com/user-attachments/assets/d6e82926-b302-49cf-8299-1ef20eee1658) ![image](https://github.com/user-attachments/assets/dcaecd74-cde6-4550-abc7-2107dd743f46) ![image](https://github.com/user-attachments/assets/87c58011-3eee-4809-8c85-afd336a8c0cf)
+
+
+![image](https://github.com/user-attachments/assets/2b2db96c-d087-4d14-9e45-838e56d63717) ![image](https://github.com/user-attachments/assets/5229c0c7-730b-4432-95d4-beafe7f98134) ![image](https://github.com/user-attachments/assets/41acbe76-e303-4918-85d5-e14b86e1bcf1)
+
+
+
+
 
 
 
