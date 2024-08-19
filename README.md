@@ -9,10 +9,14 @@ Style Representation: The style of the reference image is encoded by analyzing t
 Optimization: An initial image, usually a copy of the content image, is iteratively adjusted to minimize the difference in content and style between the generated image and the respective target representations.
 Essence:
 NST transforms the aesthetic of an image to resemble the artistic style of another while preserving its original content. This technique blends the characteristics of art and imagery through the power of neural networks, allowing for creative and visually striking results.
+Key Components:
+TensorFlow: This popular open-source machine learning framework is often used to implement NST. TensorFlow provides the tools and infrastructure necessary for building and training neural networks, making it an ideal choice for NST applications.
+VGG19 Model: A widely-used CNN architecture for NST is the VGG19 model. Developed by the Visual Geometry Group (VGG) at Oxford, VGG19 is a deep neural network with 19 layers. It is effective in capturing both high-level content and intricate style features, making it a robust choice for image transformation tasks.
 
-Here are some example of Neural Style Transfer:
+Here are some examples of Neural Style Transfer:
 ![image](https://github.com/user-attachments/assets/0a26fb74-8f80-412b-9bea-50317891d45c)
-![image](https://github.com/user-attachments/assets/7b8f0fdc-9ea2-473f-b35f-cd6a07b4955d)
+![image](https://github.com/user-attachments/assets/6ae60049-ae75-4fd6-8388-5bc96e455736)
+
 
 
 
